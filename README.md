@@ -1,4 +1,4 @@
-# ppsn18
+# Evolutionary Machine Learning Workshop @PPSN18
 Evolutionary machine-learning (EML) could be easily defined as a crossbreed
 between the fields of evolutionary computation (EC) and machine learning (ML).
 However, as the “obvious connection” between the processes of learning and
@@ -15,8 +15,8 @@ line tackling the use of ML techniques to boost EC algorithms appeared before
 algorithms are deeply embedded in frameworks performing ML tasks.
 
 The workshop’s topics of interest include but are not limited to:
-• EA applied to ML tasks (e.g., evolutionary classifiers)
-• EA applied to ML algorithms (e.g., evolutionary optimization of deep
+- EA applied to ML tasks (e.g., evolutionary classifiers)
+- EA applied to ML algorithms (e.g., evolutionary optimization of deep
 neural network)
-• ML applied to EA algorithms (e.g., optimal parameter prediction)
-• Real world applications of EML
+- ML applied to EA algorithms (e.g., optimal parameter prediction)
+- Real world applications of EML
