@@ -11,7 +11,7 @@ focuses on using EC algorithms to optimize frameworks: it included remarkable
 studies in the 1990s, such as the attempts to determine optimal topologies for
 an artificial neural network using a genetic algorithm. The other way around, a
 line tackling the use of ML techniques to boost EC algorithms appeared before
-2000. More recently, scholars are proposing truly hybrid approaches, where EC
+2000\. More recently, scholars are proposing truly hybrid approaches, where EC
 algorithms are deeply embedded in frameworks performing ML tasks.
 
 The workshop’s topics of interest include but are not limited to:
