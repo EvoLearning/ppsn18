@@ -20,3 +20,15 @@ The workshop’s topics of interest include but are not limited to:
 neural network)
 - ML applied to EA algorithms (e.g., optimal parameter prediction)
 - Real world applications of EML
+
+The workshop will be held during the conference Parallel Problem Solving From Nature (PPSN) 2018.
+
+## Submission
+- Format and page length: up to 4 page PDF file in LNCS format
+- Deadline: Monday, 26 March 2018
+- How to submit: by email to the workshop organizers
+
+## Details
+Workshop date: 8 or 9 September 2018
+Duration/Time: (to be announced)
+Location: Coimbra, Portugal
