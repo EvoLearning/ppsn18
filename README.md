@@ -26,7 +26,7 @@ The workshop will be held during the conference [Parallel Problem Solving From N
 ## Submission
 - Format and page length: up to 4 page PDF file in LNCS format
 - Deadline: Monday, 26 March 2018
-- How to submit: by email to the workshop organizers
+- How to submit: by email to the workshop organizers (giovanni.squillero@polito.it and alberto.tonda@inra.fr)
 
 ## Details
 - Workshop date: 8 or 9 September 2018
