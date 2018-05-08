@@ -24,8 +24,8 @@ neural network)
 The workshop will be held during the conference [Parallel Problem Solving From Nature (PPSN) 2018](http://ppsn2018.dei.uc.pt/).
 
 ## Submission
-- Format and page length: up to 4 page PDF file in LNCS format
-- Deadline: Monday, 26 March 2018
+- Format and page length: 2-4 page abstract PDF file in LNCS format
+- **Updated Deadline: July 8, 2018**
 - How to submit: by email to the workshop organizers (giovanni.squillero@polito.it and alberto.tonda@inra.fr)
 
 ## Details
